@@ -91,7 +91,6 @@ mh
 - [Michael Studley](https://github.com/M-Studley) ***This is my first attempt at a contribution!***
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Hussien Ahmed](https://github.com/Ronen-z)
-- [Varixus](https://github.com/varixus) **LETS GOO**
 - [Akeem Danial](https://github.com/Akeemdnl) ***Hello World!***
 - [Jayce]
 -[wamosa]
@@ -1974,6 +1973,7 @@ Hannah Sung
 - [Mohamed anis bousselmi](https://github.com/anysbslm/): First contribution.
 
 - [Habishath Thavachelvan](https://github.com/habishath)
+- [Rick Hanley](https://github.com/rickhanley) **First OS Contribution**
 - [Jennie D](https://github.com/jennie-jd) 2nd try! :)
 - [Ertyk](https://github.com/Ertyk/)
 - [Rajendran S](https://github.com/Rajendran2201)
